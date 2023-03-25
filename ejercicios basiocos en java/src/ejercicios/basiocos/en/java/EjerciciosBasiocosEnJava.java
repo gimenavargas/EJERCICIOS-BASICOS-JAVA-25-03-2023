@@ -20,7 +20,7 @@ public class EjerciciosBasiocosEnJava {
 
         int numElegido;
         
-        int a;
+        int a; //denominamos el primer valor
         System.out.println("ingresar el numero de inicio: ");
         a=miScanner.nextInt();
         int z;
